@@ -12,83 +12,83 @@
     },
     {
       "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
-      "name": "Paul Wilstein",
-      "position": "Salesman at Maserati Geneva",
-      "btnLabel": "Salesman’s Template",
-      "nbPeople": 34,
-      "nbView": 68,
-      "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
-    },
-    {
-      "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
-      "name": "Davor Djuric",
+      "name": "Tom Bourguignon",
       "position": "Car Dealership Manager at Maserati Geneva",
       "btnLabel": "Leader’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
+      "avatar": "http://localhost:8080/img/profil-avatar2.d4bbbfd1.png"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
       "name": "Paul Wilstein",
       "position": "Salesman at Maserati Geneva",
       "btnLabel": "Salesman’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
+      "avatar": "http://localhost:8080/img/profil-avatar3.0303950c.png"
+    },
+    {
+      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "name": "Maëlle Krayon",
+      "position": "Salesman at Maserati Geneva",
+      "btnLabel": "Salesman’s Template",
+      "nbPeople": 34,
+      "nbView": 68,
+      "taux": 50,
+      "avatar": "http://localhost:8080/img/profil-avatar4.4b3731ab.png"
+    },
+    {
+      "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
+      "name": "Leo Sambuc",
+      "position": "Salesman at Maserati Geneva",
+      "btnLabel": "Salesman’s Template",
+      "nbPeople": 34,
+      "nbView": 68,
+      "taux": 50,
+      "avatar": "http://localhost:8080/img/profil-avatar5.98adf5d9.png"
+    },
+    {
+      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "name": "Kim To",
+      "position": "Salesman at Maserati Geneva",
+      "btnLabel": "Salesman’s Template",
+      "nbPeople": 34,
+      "nbView": 68,
+      "taux": 50,
+      "avatar": "http://localhost:8080/img/profil-avatar5.98adf5d9.png"
+    },
+    {
+      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "name": "Cassandra Lipton",
+      "position": "Salesman at Maserati Geneva",
+      "btnLabel": "Salesman’s Template",
+      "nbPeople": 34,
+      "nbView": 68,
+      "taux": 50,
+      "avatar": "http://localhost:8080/img/profil-avatar7.c4d8cc46.png"
     },
     {
       "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
       "name": "Davor Djuric",
       "position": "Car Dealership Manager at Maserati Geneva",
-      "btnLabel": "Leader’s Template",
+      "btnLabel": "Assistant’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
+      "avatar": "http://localhost:8080/img/profil-avatar8.f6b019c5.png"
     },
     {
       "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
-      "name": "Paul Wilstein",
-      "position": "Salesman at Maserati Geneva",
-      "btnLabel": "Salesman’s Template",
-      "nbPeople": 34,
-      "nbView": 68,
-      "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
-    },
-    {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
-      "name": "Paul Wilstein",
-      "position": "Salesman at Maserati Geneva",
-      "btnLabel": "Salesman’s Template",
-      "nbPeople": 34,
-      "nbView": 68,
-      "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
-    },
-    {
-      "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
       "name": "Davor Djuric",
       "position": "Car Dealership Manager at Maserati Geneva",
-      "btnLabel": "Leader’s Template",
+      "btnLabel": "Marketing’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
-    },
-    {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
-      "name": "Paul Wilstein",
-      "position": "Salesman at Maserati Geneva",
-      "btnLabel": "Salesman’s Template",
-      "nbPeople": 34,
-      "nbView": 68,
-      "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
+      "avatar": "http://localhost:8080/img/profil-avatar9.549ab8e1.png"
     }
   ]
 }
