@@ -1,94 +1,94 @@
 {
   "teams" : [
     {
-      "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1RXHyfoC5PNZVB_cyLv9Y_JxDIaczm1xb=w2880-h1578-iv1",
       "name": "Davor Djuric",
       "position": "Car Dealership Manager at Maserati Geneva",
       "btnLabel": "Leader’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar.4c4c11e1.png"
+      "avatar": "https://lh3.google.com/u/0/d/1IqxgszrJPLCpg31YA8SwDcIyoIIQpt1-=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background.fa1ee3be.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1RXHyfoC5PNZVB_cyLv9Y_JxDIaczm1xb=w2880-h1578-iv1",
       "name": "Tom Bourguignon",
       "position": "Car Dealership Manager at Maserati Geneva",
       "btnLabel": "Leader’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar2.d4bbbfd1.png"
+      "avatar": "https://lh3.google.com/u/0/d/1o0SJ9n88XxACiFZCg2l35zLAHGvgOFYI=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt=w2880-h1474-iv1",
       "name": "Paul Wilstein",
       "position": "Salesman at Maserati Geneva",
       "btnLabel": "Salesman’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar3.0303950c.png"
+      "avatar": "https://lh3.google.com/u/0/d/1Qu9eE-IZ9fGjIK9w7zBGR1OAf8wiNaI2=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt=w2880-h1474-iv1",
       "name": "Maëlle Krayon",
       "position": "Salesman at Maserati Geneva",
       "btnLabel": "Salesman’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar4.4b3731ab.png"
+      "avatar": "https://lh3.google.com/u/0/d/1JVIQETNF6lIBFXwJYlqUI43uTms9YM7z=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt=w2880-h1474-iv1",
       "name": "Leo Sambuc",
       "position": "Salesman at Maserati Geneva",
       "btnLabel": "Salesman’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar5.98adf5d9.png"
+      "avatar": "https://lh3.google.com/u/0/d/1KHKrfrXf7Y8Uyf2Bt3BNCy0xHhJL0ZhC=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt=w2880-h1474-iv1",
       "name": "Kim To",
       "position": "Salesman at Maserati Geneva",
       "btnLabel": "Salesman’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar5.98adf5d9.png"
+      "avatar": "https://lh3.google.com/u/0/d/1XfIqggBAas_zRQ0ueF1BfzAeb04qOG0b=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background2.9bbc0fbb.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt=w2880-h1474-iv1",
       "name": "Cassandra Lipton",
       "position": "Salesman at Maserati Geneva",
       "btnLabel": "Salesman’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar7.c4d8cc46.png"
+      "avatar": "https://lh3.google.com/u/0/d/1FA4D0rZtm_Oz__HnZIRvc9xD9IQqNxo4=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background4.d20ce2ec.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1XDWthVWe8bri1iJMVhjsJLljlgizjp2O=w870-h1578-iv1",
       "name": "Davor Djuric",
       "position": "Car Dealership Manager at Maserati Geneva",
       "btnLabel": "Assistant’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar8.f6b019c5.png"
+      "avatar": "https://lh3.google.com/u/0/d/1YyaFWpyX5PMiZS3t4U6ZbgMZPdI7T0HQ=w1380-h1546-iv1"
     },
     {
-      "backgroundImage": "http://localhost:8080/img/background3.9f20c8d2.png",
+      "backgroundImage": "https://lh3.google.com/u/0/d/1HIBg6QFCBv6KT0bXM0neE8iDUtLLXVHD=w870-h1578-iv1",
       "name": "Davor Djuric",
       "position": "Car Dealership Manager at Maserati Geneva",
       "btnLabel": "Marketing’s Template",
       "nbPeople": 34,
       "nbView": 68,
       "taux": 50,
-      "avatar": "http://localhost:8080/img/profil-avatar9.549ab8e1.png"
+      "avatar": "https://lh3.google.com/u/0/d/1ehCuTJd004_f-3WG87uCSeX_L0VD0XX8=w1380-h1546-iv1"
     }
   ]
 }
