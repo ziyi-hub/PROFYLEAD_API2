@@ -118,6 +118,16 @@
         "nbView": 68,
         "taux": 50,
         "avatar": "https://drive.google.com/uc?id=1ehCuTJd004_f-3WG87uCSeX_L0VD0XX8"
+      },
+      {
+        "backgroundImage": "https://drive.google.com/uc?id=1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt",
+        "name": "Cassandra Lipton",
+        "position": "Salesman at Maserati Geneva",
+        "btnLabel": "Salesman’s Template",
+        "nbPeople": 34,
+        "nbView": 68,
+        "taux": 50,
+        "avatar": "https://drive.google.com/uc?id=1FA4D0rZtm_Oz__HnZIRvc9xD9IQqNxo4"
       }
     ],
     
@@ -131,6 +141,26 @@
         "nbView": 68,
         "taux": 50,
         "avatar": "https://drive.google.com/uc?id=1YyaFWpyX5PMiZS3t4U6ZbgMZPdI7T0HQ"
+      },
+      {
+        "backgroundImage": "https://drive.google.com/uc?id=1HIBg6QFCBv6KT0bXM0neE8iDUtLLXVHD",
+        "name": "Davor Djuric",
+        "position": "Car Dealership Manager at Maserati Geneva",
+        "btnLabel": "Marketing’s Template",
+        "nbPeople": 34,
+        "nbView": 68,
+        "taux": 50,
+        "avatar": "https://drive.google.com/uc?id=1ehCuTJd004_f-3WG87uCSeX_L0VD0XX8"
+      },
+      {
+        "backgroundImage": "https://drive.google.com/uc?id=1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt",
+        "name": "Cassandra Lipton",
+        "position": "Salesman at Maserati Geneva",
+        "btnLabel": "Salesman’s Template",
+        "nbPeople": 34,
+        "nbView": 68,
+        "taux": 50,
+        "avatar": "https://drive.google.com/uc?id=1FA4D0rZtm_Oz__HnZIRvc9xD9IQqNxo4"
       }
     ],
     
@@ -154,6 +184,36 @@
         "nbView": 68,
         "taux": 50,
         "avatar": "https://drive.google.com/uc?id=1ehCuTJd004_f-3WG87uCSeX_L0VD0XX8"
+      },
+      {
+        "backgroundImage": "https://drive.google.com/uc?id=1XDWthVWe8bri1iJMVhjsJLljlgizjp2O",
+        "name": "Davor Djuric",
+        "position": "Car Dealership Manager at Maserati Geneva",
+        "btnLabel": "Assistant’s Template",
+        "nbPeople": 34,
+        "nbView": 68,
+        "taux": 50,
+        "avatar": "https://drive.google.com/uc?id=1YyaFWpyX5PMiZS3t4U6ZbgMZPdI7T0HQ"
+      },
+      {
+        "backgroundImage": "https://drive.google.com/uc?id=1HIBg6QFCBv6KT0bXM0neE8iDUtLLXVHD",
+        "name": "Davor Djuric",
+        "position": "Car Dealership Manager at Maserati Geneva",
+        "btnLabel": "Marketing’s Template",
+        "nbPeople": 34,
+        "nbView": 68,
+        "taux": 50,
+        "avatar": "https://drive.google.com/uc?id=1ehCuTJd004_f-3WG87uCSeX_L0VD0XX8"
+      },
+      {
+        "backgroundImage": "https://drive.google.com/uc?id=1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt",
+        "name": "Cassandra Lipton",
+        "position": "Salesman at Maserati Geneva",
+        "btnLabel": "Salesman’s Template",
+        "nbPeople": 34,
+        "nbView": 68,
+        "taux": 50,
+        "avatar": "https://drive.google.com/uc?id=1FA4D0rZtm_Oz__HnZIRvc9xD9IQqNxo4"
       }
     ]
     
