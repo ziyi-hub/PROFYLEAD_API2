@@ -4,6 +4,7 @@
     
     "day": [
       {
+        "id": 0,
 
         "statistics": {
           "nbPeople": 34,
@@ -158,6 +159,8 @@
     "week" : [
       {
 
+        "id": 1,
+
         "statistics": {
           "nbPeople": 34,
           "nbView": 68,
@@ -311,6 +314,8 @@
     "month": [
       {
 
+        "id": 2,
+
         "statistics": {
           "nbPeople": 34,
           "nbView": 68,
@@ -463,6 +468,8 @@
     
     "year": [
       {
+
+        "id": 3,
 
         "statistics": {
           "nbPeople": 34,
