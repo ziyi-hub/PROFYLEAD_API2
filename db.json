@@ -30,18 +30,11 @@
           "backgroundImage": "https://drive.google.com/uc?id=1RXHyfoC5PNZVB_cyLv9Y_JxDIaczm1xb"
         },
 
-        "businessCards": [
-          {
-            "numReference": "1000000006",
-            "path": "ussqj4iiii",
-            "linkProfile": "app.profylead.com/profile/ussqj4iiii"
-          },
-          {
-            "numReference": "1000000007",
-            "path": "iistj5kkij",
-            "linkProfile": "app.profylead.com/profile/iistj5kkij"
-          }
-        ],
+        "businessCards": {
+          "numReference": "1000000006",
+          "path": "ussqj4iiii",
+          "linkProfile": "app.profylead.com/profile/ussqj4iiii"
+        },
 
         "gPerformances": {
           "day": {
@@ -165,7 +158,7 @@
           "taux": 50
         },
         "contacts": {
-          "avatar": "https://drive.google.com/uc?id=1o0SJ9n88XxACiFZCg2l35zLAHGvgOFYI",
+          "avatar": "https://drive.google.com/uc?id=1XfIqggBAas_zRQ0ueF1BfzAeb04qOG0b",
           "template": "Leader’s Template",
           "first_name": "Tom",
           "last_name": "Bourguignon",
@@ -178,18 +171,11 @@
           },
           "backgroundImage": "https://drive.google.com/uc?id=1RXHyfoC5PNZVB_cyLv9Y_JxDIaczm1xb"
         },
-        "businessCards": [
-          {
-            "numReference": "1000000006",
-            "path": "ussqj4iiii",
-            "linkProfile": "app.profylead.com/profile/ussqj4iiii"
-          },
-          {
-            "numReference": "1000000007",
-            "path": "iistj5kkij",
-            "linkProfile": "app.profylead.com/profile/iistj5kkij"
-          }
-        ],
+        "businessCards": {
+          "numReference": "1000000006",
+          "path": "ussqj4iiii",
+          "linkProfile": "app.profylead.com/profile/ussqj4iiii"
+        },
         "gPerformances": {
           "day": {
             "datasLegend": [],
