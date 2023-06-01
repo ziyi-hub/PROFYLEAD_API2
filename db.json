@@ -22,8 +22,9 @@
           "last_name": "Bourguignon",
           "email": "tom.bourguignon@gmail.com",
           "tel": "0618978444",
-          "position": "Car Dealership Manager at Maserati Geneva",
-          "companies": {
+          "position": "Car Dealership Manager",
+          "company": "Maserati Geneva",
+          "links": {
             "LinkedIn": "example.com",
             "WhatsApp": "example.com"
           },
@@ -164,8 +165,9 @@
           "last_name": "Lipton",
           "email": "cassandra.lipton@gmail.com",
           "tel": "0618978444",
-          "position": "Salesman’s Template",
-          "companies": {
+          "position": "Salesman",
+          "company": "Maserati Geneva",
+          "links": {
             "LinkedIn": "example1.com",
             "WhatsApp": "example2.com"
           },
