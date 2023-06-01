@@ -160,16 +160,16 @@
         "contacts": {
           "avatar": "https://drive.google.com/uc?id=1XfIqggBAas_zRQ0ueF1BfzAeb04qOG0b",
           "template": "Leader’s Template",
-          "first_name": "Tom",
-          "last_name": "Bourguignon",
-          "email": "tom.bourguignon@gmail.com",
+          "first_name": "Cassandra",
+          "last_name": "Lipton",
+          "email": "cassandra.lipton@gmail.com",
           "tel": "0618978444",
-          "position": "Car Dealership Manager at Maserati Geneva",
+          "position": "Salesman’s Template",
           "companies": {
-            "LinkedIn": "example.com",
-            "WhatsApp": "example.com"
+            "LinkedIn": "example1.com",
+            "WhatsApp": "example2.com"
           },
-          "backgroundImage": "https://drive.google.com/uc?id=1RXHyfoC5PNZVB_cyLv9Y_JxDIaczm1xb"
+          "backgroundImage": "https://drive.google.com/uc?id=1fcoA4heJellMWKuZxfdCMSmHPy_tQDQt"
         },
         "businessCards": {
           "numReference": "1000000006",
